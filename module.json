@@ -1,21 +1,29 @@
 {
-	"id": "ootd",
-	"title": "Odyssey of the Dragonlords",
-	"description": "A level 1-15+ Campaign for D&D 5e",
-	"authors": [{
-		"name": "Modiphius"
-	}],
-	"version": "1.0.0",
-	"compatibility": {
+  "name": "ootd",
+  "title": "Odyssey of the Dragonlords",
+  "description": "A level 1-15+ Campaign for D&D 5e",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [
+  
+  ],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": [],
+  "compatibility": {
 		"minimum": 10,
 		"verified": 10.120,
 		"maximum": 10
 	},
-	"languages": [{
-		"lang": "en",
-		"name": "English",
-		"path": "languages/en.json"
-	}],
-	"manifest": "https://raw.githubusercontent.com/Jvovillia/odyssey-of-the-dragonlords-v10/main/module.json",
-	"download": "https://drive.google.com/uc?export=download&confirm=s5vl&id=1OYbwgIpj5PGou0d-bXrIXkUVOTf3UeaB"
-  }
+  "nextSession": [],
+  "resetKeys": false,
+  "safeMode": false,
+  "manifest": "https://raw.githubusercontent.com/Jvovillia/odyssey-of-the-dragonlords-v10/main/module.json",
+  "download": "https://drive.google.com/uc?export=download&confirm=s5vl&id=1OYbwgIpj5PGou0d-bXrIXkUVOTf3UeaB"
+}
